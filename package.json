@@ -1,0 +1,24 @@
+{
+  "name": "mysql-node-amazon-app",
+  "version": "1.0.0",
+  "description": "node app using mySQL",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chang19d/mySQL-Node-Amazon-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chang19d/mySQL-Node-Amazon-app/issues"
+  },
+  "homepage": "https://github.com/chang19d/mySQL-Node-Amazon-app#readme"
+}
